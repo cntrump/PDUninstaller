@@ -1,0 +1,2 @@
+# PDUninstaller
+Parallels Desktop uninstaller
